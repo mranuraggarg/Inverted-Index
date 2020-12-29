@@ -1,3 +1,20 @@
+# Uses python3
+##################################################
+## For detail refer README.md in the main folder
+##################################################
+## GNU General Public License v3.0
+##################################################
+## Author: ANURAG GARG
+## Copyright: Copyright 2020, Inverted Index.
+
+## Credits: HSE University.
+
+## License: GNU GPL v3.0
+## Version: 1.1.0
+## Mmaintainer: ANURAG GARG
+## Email: mranuraggarg@yahoo.com
+## Status: stable
+####################################################################################################
 import json
 import argparse
 
