@@ -7,6 +7,9 @@ Main purpose of Inverted Index is to facilitate fast Full text search. For detai
 We will implement the functioanlity with the help of four functions, namely:
 1. load_document
 2. build_inverted_index
+3. query
+4. dump
+5. load
 
 and using it further inside the `Python Class`:
 1. InvertedIndex
